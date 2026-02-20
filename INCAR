@@ -1,0 +1,21 @@
+SYSTEM = Si geometry optimisation
+
+! Electronic
+ISTART = 0
+ICHARG = 2
+ENCUT  = 520
+EDIFF  = 1E-6
+ALGO   = Fast
+ISMEAR = 0
+SIGMA  = 0.05
+PREC   = Accurate
+
+! Parallelisation
+KPAR   = 4
+NCORE  = 16
+
+! Ionic relaxation
+NSW    = 100
+IBRION = 2
+ISIF   = 3
+EDIFFG = -0.01
