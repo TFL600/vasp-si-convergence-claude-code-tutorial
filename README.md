@@ -4,7 +4,7 @@ Tutorial files for running a k-point convergence study on bulk Si using VASP on 
 
 ## Video tutorial
 
-[YouTube link — paste here]
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtu.be/nJclfSrjWCE)
 
 ## Contents
 
